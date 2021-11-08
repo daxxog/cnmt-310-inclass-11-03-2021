@@ -1,0 +1,3 @@
+[submodule "phpclasses-template"]
+	path = phpclasses-template
+	url = https://github.com/suehring-uwsp/phpclasses-template.git
